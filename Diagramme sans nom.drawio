@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="3xa-HHFfd73O5SO4EcYE">
-    <mxGraphModel>
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="270" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="570" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="question communication et collaboration" vertex="1">
+          <mxGeometry height="160" width="280" x="270" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;strokeWidth=10;" value="réponse comm et collab" vertex="1">
+          <mxGeometry height="160" width="280" x="570" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FFFFFF);strokeColor=light-dark(#B20000,#FF3333);fontColor=#ffffff;strokeWidth=10;" value="question création de contenu" vertex="1">
+          <mxGeometry height="160" width="280" x="270" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#B20000,#FF3333);strokeWidth=10;" value="réponse creation contenu" vertex="1">
+          <mxGeometry height="160" width="280" x="570" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#76608A,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#432D57,#9933FF);strokeWidth=10;" value="question sécurité info" vertex="1">
+          <mxGeometry height="160" width="280" x="270" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="wG9Jw2ibOzHx_oeztxgr-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#9933FF);strokeWidth=10;" value="réponse sécu info" vertex="1">
+          <mxGeometry height="160" width="280" x="570" y="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
