@@ -1,0 +1,16 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="N5fImRAIAp1jxEAPXwPZ">
+    <mxGraphModel dx="1256" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j7Yzm7d6OzdCF7PQtcvu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#76608A,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#432D57,#9933FF);strokeWidth=10;" value="question sécurité info" vertex="1">
+          <mxGeometry height="160" width="280" x="140" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j7Yzm7d6OzdCF7PQtcvu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#9933FF);strokeWidth=10;" value="réponse sécu info" vertex="1">
+          <mxGeometry height="160" width="280" x="140" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

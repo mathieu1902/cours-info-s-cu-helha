@@ -1,0 +1,16 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Okq3eUqWJJ0ToOgZUWV1">
+    <mxGraphModel dx="1256" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PG6_eKozBTadrxmQOiXS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FFFFFF);strokeColor=light-dark(#B20000,#FF3333);fontColor=#ffffff;strokeWidth=10;" value="question création de contenu" vertex="1">
+          <mxGeometry height="160" width="280" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="PG6_eKozBTadrxmQOiXS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#B20000,#FF3333);strokeWidth=10;" value="réponse creation contenu" vertex="1">
+          <mxGeometry height="160" width="280" x="280" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
