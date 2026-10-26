@@ -1,33 +1,131 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="Electron">
   <diagram name="Page-1" id="xtSmeYepwWzlVz8wEPzB">
-    <mxGraphModel dx="1481" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2xF69ocavT2LRuRGXnLG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+        <mxCell id="2xF69ocavT2LRuRGXnLG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="1: il s&#39;agit des composantes physiques&lt;div&gt;d&#39;un ordinateur&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="280" x="220" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="2xF69ocavT2LRuRGXnLG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+        <mxCell id="2xF69ocavT2LRuRGXnLG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="kf" vertex="1">
           <mxGeometry height="160" width="280" x="520" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="2xF69ocavT2LRuRGXnLG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="question communication et collaboration" vertex="1">
-          <mxGeometry height="160" width="280" x="220" y="470" as="geometry" />
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="2: il s&#39;agit des programmes et logiciels&amp;nbsp;&lt;div&gt;d&#39;un ordinateur&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="2xF69ocavT2LRuRGXnLG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;strokeWidth=10;" value="réponse comm et collab" vertex="1">
-          <mxGeometry height="160" width="280" x="520" y="470" as="geometry" />
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="3: il s&#39;agit de la mémoire active" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="2xF69ocavT2LRuRGXnLG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FFFFFF);strokeColor=light-dark(#B20000,#FF3333);fontColor=#ffffff;strokeWidth=10;" value="question création de contenu" vertex="1">
-          <mxGeometry height="160" width="280" x="220" y="670" as="geometry" />
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="4: la mémoire vive ne garde pas les données mais permet&amp;nbsp; d&#39;y accéder&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;plus rapidement.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;la mémoire morte garde toutes les données mais&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;rend leur accès plus lent&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="2xF69ocavT2LRuRGXnLG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#B20000,#FF3333);strokeWidth=10;" value="réponse creation contenu" vertex="1">
-          <mxGeometry height="160" width="280" x="520" y="670" as="geometry" />
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="5:&amp;nbsp; le stockage externe peut etre transférer&amp;nbsp;&lt;div&gt;d&#39;un ordinateur a un autre pour&lt;/div&gt;&lt;div&gt;&amp;nbsp;partagé des données.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;un stockage interne ne peut pas&lt;/div&gt;&lt;div&gt;&amp;nbsp;etre enlevé d&#39;un ordinateur&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="2xF69ocavT2LRuRGXnLG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#76608A,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#432D57,#9933FF);strokeWidth=10;" value="question sécurité info" vertex="1">
-          <mxGeometry height="160" width="280" x="220" y="870" as="geometry" />
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="6:&lt;div&gt;1)&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;périphérique d&#39;entré&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;périphérique de sortie&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;périphérique d&#39;entré et de sortie&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="2xF69ocavT2LRuRGXnLG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#9933FF);strokeWidth=10;" value="réponse sécu info" vertex="1">
-          <mxGeometry height="160" width="280" x="520" y="870" as="geometry" />
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="1290" as="geometry" />
         </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+          <mxGeometry height="160" width="280" x="220" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="question informations et données" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="7: combien de type de périphérique&lt;div&gt;existe-il&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="6: quel sont les différent&lt;div&gt;&amp;nbsp;types de periphérique&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="5:&amp;nbsp; qu&#39;est ce qui différencie&amp;nbsp;&lt;div&gt;un stockage externe d&#39;un stockage interne&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="4: quel est la différence entre mémoire vive&lt;div&gt;et mémoire morte&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="3: qu&#39;est ce que la RAM" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;" value="2: qu&#39;est ce qu&#39;un software" vertex="1">
+          <mxGeometry height="160" width="280" x="-80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="520" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="t6sYfPlmt5HQyZ5w2BtA-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#66CC00);fontStyle=0;strokeWidth=10;" value="réponse information et données" vertex="1">
+          <mxGeometry height="160" width="280" x="820" y="1630" as="geometry" />
+        </mxCell>
+        <UserObject label="1: qu&#39;est ce qu&#39;un hardware" tooltip="&lt;br&gt;" id="t6sYfPlmt5HQyZ5w2BtA-42">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#82B366,#FFFFFF);strokeColor=light-dark(#82B366,#66CC00);fontColor=light-dark(#000000,#000000);strokeWidth=10;fontFamily=Helvetica;verticalAlign=middle;align=center;" vertex="1">
+            <mxGeometry height="160" width="280" x="-80" y="270" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
