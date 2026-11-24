@@ -1,0 +1,70 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="KT29I8JC4yZTS1esrmMP">
+    <mxGraphModel dx="858" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="1 sous quel forme sont enregister&lt;div&gt;les information sur un ordinateur&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="260" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="que le nom soit cour et explicite" vertex="1">
+          <mxGeometry height="160" width="280" x="547" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="quel est le point le plus important&lt;div&gt;quand on nomme un fichier ?&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="260" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="pour faciliter leurs recherches" vertex="1">
+          <mxGeometry height="160" width="280" x="547" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="pourquoi organiser ses fichiers" vertex="1">
+          <mxGeometry height="160" width="280" x="260" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="sous forme de fichier" vertex="1">
+          <mxGeometry height="160" width="280" x="547" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="quel format de fichier utiliser pour&lt;div&gt;partager un document non modifiable&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="260" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="en format PDF" vertex="1">
+          <mxGeometry height="160" width="280" x="547" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="des protocoles" vertex="1">
+          <mxGeometry height="160" width="280" x="260" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="des protocoles" vertex="1">
+          <mxGeometry height="160" width="280" x="547" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="premiere secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="une seul variable" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="dans un tableur, combien de variable&lt;div&gt;vaux-t-il mieux mettre dans une colonne ?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
