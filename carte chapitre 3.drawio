@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="KT29I8JC4yZTS1esrmMP">
-    <mxGraphModel dx="858" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1241" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
         <mxCell id="Sq5qfp0JZNv0ebQzO9OD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="en format PDF" vertex="1">
           <mxGeometry height="160" width="280" x="547" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="des protocoles" vertex="1">
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="est-il possible de retrouver l&#39;endroit&amp;nbsp;&lt;div&gt;exact&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ou a été pris une photo&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="280" x="260" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="des protocoles" vertex="1">
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="oui, grace aux métadonnnées" vertex="1">
           <mxGeometry height="160" width="280" x="547" y="870" as="geometry" />
         </mxCell>
         <mxCell id="Sq5qfp0JZNv0ebQzO9OD-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#66CC00);strokeWidth=10;" value="premiere secondaire" vertex="1">
@@ -52,17 +52,41 @@
         <mxCell id="Sq5qfp0JZNv0ebQzO9OD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
           <mxGeometry height="160" width="280" x="1310" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="comment savoir si une information est exact ?" vertex="1">
           <mxGeometry height="160" width="280" x="1020" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="il faut chercher si plusieurs sources&lt;div&gt;&amp;nbsp;donnent la même information&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="280" x="1310" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="exactitude&lt;div&gt;info complète&lt;/div&gt;&lt;div&gt;cohérence&lt;/div&gt;&lt;div&gt;actualité&lt;/div&gt;&lt;div&gt;pertinence&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="280" x="1310" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="deuxiéme secondaire" vertex="1">
+        <mxCell id="Sq5qfp0JZNv0ebQzO9OD-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="quels sont les critères de qualité d&#39;une source ?" vertex="1">
           <mxGeometry height="160" width="280" x="1020" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="a quoi sert un tableur ?" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="a saisir, organiser, représenter&lt;div&gt;&amp;nbsp;et traiter des données&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="non, elle est seulement utile quand on cherche u e information pouvant changer dans le temps" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="l&#39;actualité d&#39;une information est-elle&lt;div&gt;&amp;nbsp;toujours importante ?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="une cellule" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="dans un tableur, comment s&#39;appelle&amp;nbsp;&lt;div&gt;l&#39;intersection entre une ligne et une collone ?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="faux.&lt;div&gt;exemple: google sheet, libreoffice calc, ...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="1310" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="vS2w5PNDMNK5V6ipegOa-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFFFFF);fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=10;" value="&lt;div&gt;vrai ou faux:&lt;/div&gt;excel est le seul tableur qui existe?" vertex="1">
+          <mxGeometry height="160" width="280" x="1020" y="1190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
